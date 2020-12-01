@@ -1,0 +1,151 @@
+body {
+	width: 1335px;
+	margin: 0 auto;
+	background-color: #393b44;
+	font-size: 30px;
+	color: #f4f4f4;
+}
+
+header[role="banner"] {
+	margin-top: 20px;
+	height: 205px;
+	border: solid 5px #ffd31d;
+}
+
+footer {
+	margin-top: -850px;
+	text-align: center; 
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 18px;
+	border: solid 5px #ffd31d;
+}
+
+h1 {
+	font-family: Didot;
+	font-size: 90px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	text-align: center;
+	margin: 20px;
+}
+
+nav {
+	margin: 0 auto;
+	width: 420px;
+}
+
+
+nav ul {
+	text-align: center;
+	font-family: Noto Sans, sans-serif;
+	font-size: 18px;
+	list-style: none;
+}
+
+nav ul li {
+	display: inline-block;
+	height: 20px;
+	width: 45px;
+	margin: 0 65px 0 10px;
+	white-space: nowrap;
+}
+
+nav ul li a {
+	display: inline-block;
+	text-decoration: none;
+	padding: 5px 20px;
+	background: #d35d6e;
+	color: #f6f5f5;
+	border: solid 3px #ffd31d;
+	border-radius: 30%;
+}
+
+nav a:hover {
+  background-color: #829cbc;
+}
+
+article {
+	position: relative;
+	top: 20px;
+	background-color: #376996;
+	border: solid 5px #ffd31d;
+	height: 855px;
+	width: 880px;
+}
+
+article h2 {
+	font-family: monaco;
+	font-size: 24px;
+	line-height: 14px;
+	margin: 20px 0 0 0;
+	padding: 10px 20px;
+}
+
+article p {
+	color: #f4f4f4;
+	line-height: 24px;
+	padding: 2px 20px;
+	font-size: 30px;
+}
+
+section {
+	background-color: #F2EECB;
+	border; double 4px white;
+	padding: 5px;
+	margin: 0px 10px;
+}
+
+section h3 {
+	font-family: monospace;
+	color: black;
+	margin-top: 10px;
+	font-size: 22px;
+	line-height: 14px;
+	margin: 10px 0 0 0;
+	padding: 20px 5px 0 20px;
+}
+
+section p {
+	color: black;
+	font-size: 16px;
+	font-family: Courier;
+	line-height: 22px;
+}
+
+img {
+	margin-top: 10px;
+	justify-content: : center;
+}
+
+aside {
+	position: relative;
+	top: -845px;
+	left: 905px;
+	background-color: #376996;
+	border: solid 5px #ffd31d;  
+	height: 855px;
+	width: 420px;	
+}
+
+aside h3 {
+	color: #f4f4f4;
+	text-align: center;
+	font-size: 24px;
+	line-height: 14px;
+	margin: 20px 0px 0px 0px;
+	padding: 10px 20px;
+}
+
+aside h4 {
+	text-align: left;
+	font-size: 20px;
+	margin-left: 20px; 
+}
+
+aside p {
+	color: #f4f4f4;
+	font-size: 22px;
+	line-height: 22px;
+	padding: 0 20px;
+}
