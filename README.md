@@ -1,2 +1,2 @@
-# beatnik.github.io
+# Beatnik Website Project
 Website project 
